@@ -1,0 +1,10 @@
+Well;Event_name;Event_type;Lithology_type;Age (Ma);Depth top, m;Depth bottom, m;Thickness, m;D Thickness (erosion), m;Paleobathymetry, Ma;Sea level, m;Sublayers;PSE;Kinetic;TOC initial, %;HI initial, %;"Layer bulk
+conductivity";"Layer radiogenic
+heat production"
+Test_well;Erosion;Erosion;;0;0;0;0;;300;0;1;;;;;;
+Test_well;Layer 3;Erosion;Anhydrite;0;0;1000;1000;;300;0;1;;;;;6;2
+Test_well;Layer 2;Deposition;Dolomite;10;1000;1500;500;;325;40;1;;;;;3.35;1
+Test_well;Layer 1;Deposition;Shales;20;1500;3000;1500;;350;50;1;Reservoir;;;;1.6;5
+Test_well;Fundament;Deposition;Quartzite;30;3000;4500;1500;;-20;10;1;;;;;7;0.3
+Test_well;Fundament;Deposition;Granite;40;4500;5000;500;;;;;;;;;3.1;5
+Test_well;Fundament;Deposition;;;;;;;;;;;;;;;5
