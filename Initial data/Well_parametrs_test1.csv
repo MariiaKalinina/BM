@@ -1,0 +1,13 @@
+Well;Event_name;Event_type;Lithology_type;Age (Ma);Depth top, m;Depth bottom, m;Thickness, m;D Thickness (erosion), m;Paleobathymetry, Ma;Sea level, m;Sublayers;N sublayers;PSE;Kinetic;TOC initial, %;HI initial, %
+Test_well;Erosion;Erosion;;0;0;0;0;;300;0;;;;;;
+Test_well;Layer 10;Erosion;Shales;0;0;200;200;;300;0;On;0;;;;
+Test_well;Layer 9;Deposition;Sandstones;45;200;450;250;;325;40;On;0;;;;
+Test_well;Layer 8;Deposition;Shales;55;450;1200;750;;350;50;On;0;;;;
+Test_well;Layer 7;Deposition;Chalk;80;1200;2500;1300;;300;100;On;0;;;;
+Test_well;Layer 6;Deposition;Sandstones;100;2500;3400;900;;200;80;On;0;;;;
+Test_well;Layer 5;Deposition;Limestones;125;3400;3600;200;;20;70;On;0;Source Rock;Tegelaar(1994)_TI-S(Spain);10;100
+Test_well;Layer 4;Deposition;Dolomite;145;3600;4000;400;;20;-40;On;0;;;;
+Test_well;Layer 3;Deposition;Sandstones;160;4000;4250;250;;10;-20;On;0;;;;
+Test_well;Layer 2;Deposition;Anhydrite;210;4250;5000;750;;20;0;On;0;;;;
+Test_well;Layer 1;Deposition;Quartzite;245;5000;5400;400;;0;0;On;0;;;;
+Test_well;Fundament;Deposition;;260;5400;5400;0;;-20;10;;;;;;
