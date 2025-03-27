@@ -1,0 +1,9 @@
+Lithology_type;Porosity;Exp_decay, km-1;Grain density;TC matrix;Radiogenic Heat Production;Ki_framework
+Shales;0.70;0.51;2700;1.64;0.0000017;2
+Sandstones;0.41;0.27;2720;3.95;0.0000012;5.5
+Chalk;0.7;0.71;2680;2.90;0.0000004;3.3
+Limestones;0.35;0.35;2740;3.0;0.0000005;3.3
+Dolomite;0.35;0.60;2790;4.2;0.0000004;5.3
+Anhydrite;0.01;0.20;2970;6.3;0.0000001;6.3
+Quartzite;0.41;0.27;2720;3.95;0.0000005;7.7
+Fundament;0;0;2800;3;0.0000028;3
