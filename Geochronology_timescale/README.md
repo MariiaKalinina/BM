@@ -24,5 +24,5 @@ This repository contains Python scripts for visualizing geological timescales an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/geochronology-visualization.git
+   git clone https://github.com/MariiaKalinina/BM/blob/0fd20c90ab915b2734c1ee074c99917487f7c9bf/Geochronology_timescale/Geochronology.ipynb
    cd geochronology-visualization
